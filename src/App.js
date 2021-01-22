@@ -1,14 +1,14 @@
-import logo from './logo.svg';
 import './App.css';
 import Container from './components/Container';
+import InfoTile from './components/InfoTile';
 
 const App = () => {
   return (
     <Container>
         <div className="flex flex-col">
-          <div>Test</div>
-          <div>Test</div>
-          <div>Test</div>
+          <InfoTile amount={1000} transactionType='Gastos'/>
+          <InfoTile amount={1000} transactionType='Gastos'/>
+          <InfoTile amount={1000} transactionType='Gastos'/>
         </div>
     </Container>
   );
