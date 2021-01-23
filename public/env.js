@@ -7,6 +7,7 @@ window.env = {
   "LC_TIME": "en_US.UTF-8",
   "PT7HOME": "/opt/pt",
   "USER": "nhulox97",
+  "npm_package_dependencies_node_sass": "4.14.1",
   "npm_package_dependencies_autoprefixer": "^9",
   "npm_config_version_commit_hooks": "true",
   "npm_config_user_agent": "yarn/1.22.5 npm/? node/v14.15.4 linux x64",
@@ -66,7 +67,7 @@ window.env = {
   "npm_config_ignore_scripts": "",
   "WINDOWPATH": "2",
   "npm_package_browserslist_development_0": "last 1 chrome version",
-  "PATH": "/tmp/yarn--1611433691226-0.11153699402161554:/home/nhulox97/PersonalProjects/personal-budgets-app/node_modules/.bin:/home/nhulox97/.config/yarn/link/node_modules/.bin:/home/nhulox97/.yarn/bin:/usr/libexec/lib/node_modules/npm/bin/node-gyp-bin:/usr/lib/node_modules/npm/bin/node-gyp-bin:/usr/bin/node_modules/npm/bin/node-gyp-bin:/home/nhulox97/.local/bin:/home/nhulox97/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/nhulox97/development/flutter/bin",
+  "PATH": "/tmp/yarn--1611439224318-0.8567164780790293:/home/nhulox97/PersonalProjects/personal-budgets-app/node_modules/.bin:/home/nhulox97/.config/yarn/link/node_modules/.bin:/home/nhulox97/.yarn/bin:/usr/libexec/lib/node_modules/npm/bin/node-gyp-bin:/usr/lib/node_modules/npm/bin/node-gyp-bin:/usr/bin/node_modules/npm/bin/node-gyp-bin:/home/nhulox97/.local/bin:/home/nhulox97/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/nhulox97/development/flutter/bin",
   "NODE": "/usr/bin/node",
   "PAPERSIZE": "letter",
   "SESSION_MANAGER": "local/pop-os:@/tmp/.ICE-unix/2472,unix/pop-os:/tmp/.ICE-unix/2472",
@@ -125,5 +126,5 @@ window.env = {
   "npm_package_dependencies_tailwindcss": "npm:@tailwindcss/postcss7-compat",
   "INIT_CWD": "/home/nhulox97/PersonalProjects/personal-budgets-app",
   "npm_package_dependencies_react": "^17.0.1",
-  "API_URL": "https://personal-budgets-api.herokuapp.com/api/"
+  "API_URL": "https://personal-budgets-api.herokuapp.com/api"
 };
