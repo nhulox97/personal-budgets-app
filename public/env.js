@@ -67,7 +67,7 @@ window.env = {
   "npm_config_ignore_scripts": "",
   "WINDOWPATH": "2",
   "npm_package_browserslist_development_0": "last 1 chrome version",
-  "PATH": "/tmp/yarn--1611439224318-0.8567164780790293:/home/nhulox97/PersonalProjects/personal-budgets-app/node_modules/.bin:/home/nhulox97/.config/yarn/link/node_modules/.bin:/home/nhulox97/.yarn/bin:/usr/libexec/lib/node_modules/npm/bin/node-gyp-bin:/usr/lib/node_modules/npm/bin/node-gyp-bin:/usr/bin/node_modules/npm/bin/node-gyp-bin:/home/nhulox97/.local/bin:/home/nhulox97/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/nhulox97/development/flutter/bin",
+  "PATH": "/tmp/yarn--1611441248917-0.25241969223498417:/home/nhulox97/PersonalProjects/personal-budgets-app/node_modules/.bin:/home/nhulox97/.config/yarn/link/node_modules/.bin:/home/nhulox97/.yarn/bin:/usr/libexec/lib/node_modules/npm/bin/node-gyp-bin:/usr/lib/node_modules/npm/bin/node-gyp-bin:/usr/bin/node_modules/npm/bin/node-gyp-bin:/home/nhulox97/.local/bin:/home/nhulox97/.cargo/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/home/nhulox97/development/flutter/bin",
   "NODE": "/usr/bin/node",
   "PAPERSIZE": "letter",
   "SESSION_MANAGER": "local/pop-os:@/tmp/.ICE-unix/2472,unix/pop-os:/tmp/.ICE-unix/2472",

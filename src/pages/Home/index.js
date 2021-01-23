@@ -1,5 +1,5 @@
 import React from 'react';
-import env from 'react-dotenv';
+import env from '../../env.config';
 import useFetch from '../../hooks/useFetch';
 import Container from '../../components/Container';
 import InfoTile from '../../components/InfoTile';
