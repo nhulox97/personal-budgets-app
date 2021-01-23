@@ -1,7 +1,7 @@
 import React from 'react';
 
 const InfoTile = ({ numberTransactions, transactionType, amount }) => (
-  <div className="flex flex-col content-center m-8 p-8 border-gray-300 rounded-md shadow-md">
+  <div className="flex flex-col content-center m-8 p-8 border-gray-300 rounded-md shadow-lg">
     <div className="flex flex-row justify-between p-2">
       <div className="text-2xl font-semibold">
         {transactionType}
