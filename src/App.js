@@ -1,17 +1,7 @@
+import React from 'react';
 import './App.css';
-import Container from './components/Container';
-import InfoTile from './components/InfoTile';
+import Router from './services/Router';
 
-const App = () => {
-  return (
-    <Container>
-        <div className="flex flex-col">
-          <InfoTile numberTransactions={10} amount={1000} transactionType='Gastos'/>
-          <InfoTile numberTransactions={10} amount={1000} transactionType='Gastos'/>
-          <InfoTile numberTransactions={10} amount={1000} transactionType='Gastos'/>
-        </div>
-    </Container>
-  );
-}
+const App = () => <Router /> 
 
 export default App;
