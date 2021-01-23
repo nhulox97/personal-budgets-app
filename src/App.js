@@ -1,7 +1,8 @@
-import React from 'react';
-import './App.css';
-import Router from './services/Router';
+import React from "react";
+import Router from "./services/Router";
+import env from "react-dotenv";
 
-const App = () => <Router /> 
+console.log(env.API_URL);
+const App = () => <Router />;
 
 export default App;
