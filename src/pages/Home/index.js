@@ -9,7 +9,7 @@ const Home = () => {
   const {
     result,
     loading
-  } = useFetch(`${process.env.REACT_APP_API_URL}/transactions?project=6008ff93be76f7423086c5f5`);
+  } = useFetch(`${process.env.REACT_APP_API_URL}/transactions?project=600cff589606b30015b2c7ce`);
   console.log(result);
   if (loading)
     return <Loader />;

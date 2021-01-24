@@ -17,6 +17,7 @@ const InfoTile = ({ numberTransactions, transactionType, amount }) => {
       <div className={`text-3xl font-semibold ${getTextColorByTransaction(transactionType)}`}>
         {transactionType}
       </div>
+      
       <div className="text-gray-400 text-right self-center hover:text-blue-400 underline">
         <a href='/'>ver mas</a>
       </div>
