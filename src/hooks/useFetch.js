@@ -21,7 +21,7 @@ const useFetch = (url) => {
       }
     };
     fetchResource();
-  }, );
+  }, []);
 
   return { result, loading, error };
 };
