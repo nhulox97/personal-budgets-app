@@ -12,7 +12,7 @@ const InfoTile = ({ numberTransactions, transactionType, amount }) => {
   }
 
   return (
-  <div className="flex flex-col content-center m-8 pt-8 pb-8 pl-16 pr-16 border border-gray-400 rounded-lg shadow-lg hover:shadow-2xl transition ease-in duration-300 transform hover:scale-110 bg-gray-50">
+    <div className="md:flex-grow-0 md:flex-shrink-0 content-center m-8 pt-8 pb-8 pl-16 pr-16 border border-gray-400 rounded-lg shadow-lg hover:shadow-2xl transition ease-in duration-300 transform hover:scale-110 bg-gray-50">
     <div className="flex flex-row justify-between p-2">
       <div className={`text-3xl font-semibold ${getTextColorByTransaction(transactionType)}`}>
         {transactionType}
