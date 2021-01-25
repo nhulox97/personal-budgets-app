@@ -24,4 +24,4 @@ yarn-debug.log*
 yarn-error.log*
 
 # local data
-/src/data.js
+# /src/data.js

@@ -13,8 +13,10 @@ const Home = () => {
       result, 
       loading 
   } = useFetch(`${process.env.REACT_APP_API_URL}/transactions?project=600cff589606b30015b2c7ce`);
+
   if (loading) 
     return <Loader />;
+
   const transactionsData  = result.result;
   const {
     gastos,
@@ -26,6 +28,7 @@ const Home = () => {
     transactions
  } = transactionsData;
   const project = transactions[0].project;
+
   return (
     <Container>
       <ProjectDetail 
